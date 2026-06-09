@@ -73,17 +73,6 @@ La primera vez que corra, `data/tone_profile.json` se genera automáticamente co
 
 ---
 
-## Cargar posts reales de Darwin AI (recomendado antes del primer uso)
-
-Cuantos más ejemplos reales cargues, mejor captura el tono el sistema. Mínimo recomendado: 3 posts de cada plataforma.
-
-```bash
-python tone_learner.py --load
-```
-
-El CLI te guía paso a paso: pegás el texto del post, indicás la plataforma y el nivel de performance. Los posts se guardan en `data/tone_examples.json` y se usan automáticamente en el siguiente prompt.
-
----
 
 ## Flujo de uso en la app
 
