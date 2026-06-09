@@ -1,0 +1,44 @@
+{
+  "_comment": "Schema de referencia — Darwin AI Content System",
+
+  "tone_profile.json": {
+    "voice_traits":        ["string — rasgo de voz, ej: 'Directo y concreto'"],
+    "structural_patterns": ["string — patrón de estructura, ej: 'Abre con dato sorprendente'"],
+    "vocabulary_signals":  ["string — palabra/frase característica"],
+    "avoid_patterns":      ["string — qué NUNCA hacer"],
+    "platform_notes": {
+      "linkedin":  "string — instrucciones específicas para LinkedIn",
+      "instagram": "string — instrucciones específicas para Instagram"
+    }
+  },
+
+  "tone_examples.json": [
+    {
+      "text":        "string — texto completo del post",
+      "platform":    "linkedin | instagram",
+      "performance": "high | medium | low",
+      "notes":       "string | null",
+      "word_count":  0
+    }
+  ],
+
+  "approved_posts.json": [
+    {
+      "text":        "string",
+      "platform":    "linkedin | instagram",
+      "topic":       "string",
+      "approved_at": "ISO 8601 timestamp"
+    }
+  ],
+
+  "feedback_log.json": [
+    {
+      "text":        "string — texto del post rechazado",
+      "platform":    "linkedin | instagram",
+      "topic":       "string",
+      "reason":      "string — motivo libre del operador",
+      "tags":        ["falta_latam", "muy_formal", "falta_cta", "muy_largo", "muy_generico"],
+      "rejected_at": "ISO 8601 timestamp"
+    }
+  ]
+}
