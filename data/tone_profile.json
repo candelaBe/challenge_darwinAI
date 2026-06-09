@@ -1,0 +1,41 @@
+{
+  "voice_traits": [
+    "Experto pero accesible — habla de IA sin jerga innecesaria",
+    "Optimista y concreto — promesas respaldadas por casos reales",
+    "LATAM-first — menciona mercados latinoamericanos con especificidad",
+    "Directo — va al punto en las primeras dos líneas",
+    "Storyteller — usa anécdotas de clientes reales (anonimizadas)",
+    "Evitá lenguaje demasiado formal — hablá como un colega experto"
+  ],
+  "structural_patterns": [
+    "Abre con un dato sorprendente o pregunta retórica",
+    "Desarrollo en 2-3 ideas conectadas, no listas largas",
+    "Cierra con CTA claro: 'escribinos', 'agendá una demo', 'contanos'",
+    "Usa saltos de línea generosamente — párrafos de 1-2 oraciones",
+    "Emojis estratégicos: 1-3 por post, no decorativos sino funcionales",
+    "Siempre terminá con un CTA explícito y específico"
+  ],
+  "vocabulary_signals": [
+    "agente conversacional",
+    "automatización",
+    "LATAM",
+    "escala",
+    "resultado",
+    "cliente",
+    "implementar",
+    "conversación",
+    "ROI"
+  ],
+  "avoid_patterns": [
+    "Frases genéricas de motivación sin sustancia ('el futuro es hoy')",
+    "Listas de más de 5 ítems con bullets",
+    "Lenguaje corporativo frío y distante",
+    "Hashtags en exceso (máximo 3-5 en Instagram, 1-2 en LinkedIn)",
+    "Pasivo: 'fue implementado', 'se realizó' → preferir voz activa",
+    "Posts de más de 300 palabras en LinkedIn pierden engagement"
+  ],
+  "platform_notes": {
+    "linkedin": "Tono más formal pero no rígido. Posts de 150-300 palabras. Foco en ROI y casos de negocio. Hashtags: 2-3 muy relevantes.",
+    "instagram": "Más visual y dinámico. Texto más corto: 80-150 palabras en caption. Emojis más presentes. CTA hacia bio link o DMs. Hashtags: 5-10, mezcla de nicho y amplio."
+  }
+}
