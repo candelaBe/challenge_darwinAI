@@ -1,0 +1,93 @@
+[
+  {
+    "text": "🚨 Según informes, Microsoft canceló las licencias internas de Claude Code después de que la facturación por uso de tokens se volviera demasiado costosa.\n\n💡 Y eso llama la atención porque Microsoft ya invirtió US$13 mil millones en OpenAI y sigue impulsando gran parte de la infraestructura de IA con Azure.\n\n⚠️ Pero el punto más importante es otro:\nLa IA empieza a volverse muy costosa a gran escala.\n\nSegún el reporte:\n• Uber habría gastado todo su presupuesto de IA para 2026 en solo 4 meses\n• los precios del software de IA ya habrían subido entre 20% y 37%\n• y GitHub también se mueve hacia precios basados en uso\n\n🤯 La industria está descubriendo que entrenar modelos es caro… pero usarlos masivamente puede ser todavía más costoso.\n\nFuente: The Verge",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Formato típico: emoji titular + 💡 señal clave + bullets + 🤯 takeaway + Fuente. En español.",
+    "word_count": 112
+  },
+  {
+    "text": "🔐🤖 Anthropic is using cybersecurity as one of the first serious tests of whether AI agents can handle work that normally takes expert security teams weeks.\n\n💡 The important signal is not just how many bugs Mythos Preview finds… but where it is being tested.\n\nAccording to reports, the system has already been evaluated across:\n• Cloudflare\n• Mozilla\n• open-source projects\n• critical infrastructure systems\n• and government-level security environments\n\n⚡ For companies like Cloudflare and Mozilla, faster vulnerability detection means reducing the window before attackers can exploit the same weaknesses.\n\n🤯 And that raises a much bigger question:\nIf tools like Mythos keep improving, security testing may shift from occasional audits… to constant AI-assisted monitoring.\n\nSource: Anthropic",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Mismo formato pero en inglés. Usa '...' para pausas dramáticas. Cierra con pregunta abierta.",
+    "word_count": 118
+  },
+  {
+    "text": "🏦🤖 Jamie Dimon afirmou que o JPMorgan Chase contratará mais especialistas em IA enquanto reduz algumas funções bancárias tradicionais à medida que a automação avança pela empresa.\n\n💡 Atualmente, o JPMorgan já utiliza IA em áreas como:\n• detecção de fraudes\n• atendimento ao cliente\n• engenharia de software\n• pesquisa de mercado\n• operações internas\n\n⚡ o que o torna um dos bancos mais avançados na adoção de IA.\n\nA mudança reflete uma nova demanda por profissionais, com maior foco em:\n• engenheiros\n• infraestrutura de dados\n• implementação de IA\ne menor necessidade de determinadas funções manuais e repetitivas.\n\n🤯 Segundo Dimon, o objetivo não é simplesmente substituir funcionários, mas aumentar a produtividade e transformar a maneira como o trabalho é realizado dentro da organização.\n\nFonte: Bloomberg",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "En portugués. Demuestra que Darwin publica en múltiples idiomas según la audiencia.",
+    "word_count": 121
+  },
+  {
+    "text": "🧠⚡ Mira Murati's new bet is not about making AI sound smarter\nIt's about fixing the awkward pause that happens when:\nyou ask something → wait → correct the answer → repeat.\n\n💡 That tiny gap is why AI still feels clumsy during real collaborative work.\nEspecially in:\n• brainstorming\n• coding\n• teaching\n• planning with teams\n\n🚀 Her new company, Thinking Machines, is trying to make AI keep up with real conversations in real time.\nConversations where people:\n⚡ interrupt\n⚡ change direction\n⚡ think out loud\n\n🤯 The goal isn't just better answers… it's making AI feel more natural to collaborate with.\n\nSource: Thinking Machines",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Usa emojis como bullets (⚡ interrupt). Apertura con contraste: 'no es X... es Y'. Muy efectivo.",
+    "word_count": 102
+  },
+  {
+    "text": "⚡️🏠 NVIDIA wants to turn homes and buildings into part of a massive AI network\nThe company partnered with Span to develop XFRA nodes:\nsmall AI computing units installed outside homes or businesses.\n\n💡 The idea:\nuse extra electricity from local grids\nto create distributed AI computing power.\n\n🚀 Instead of relying only on giant data centers…\nthousands of connected nodes could work together\nlike a decentralized AI infrastructure.\n\n🤯 Your neighborhood could literally become part of the AI cloud.\n\nSource: Inc.",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Post más corto. Cierra con frase impactante en segunda persona ('Your neighborhood'). Muy visual sin imágenes.",
+    "word_count": 78
+  },
+  {
+    "text": "🚀🤖 OpenAI is expanding Codex beyond traditional software development, introducing new tools designed for business professionals and knowledge workers.\n\n💡 According to OpenAI, Codex now has more than 5 million weekly users.\nAnd one statistic stands out:\n📈 Non-developers account for roughly 20% of the user base and are growing more than three times faster than developers.\n\n⚡ OpenAI also introduced six specialized plugins for:\n• data analytics\n• creative production\n• sales\n• product design\n• public equity investing\n• investment banking\n\nTogether, these plugins connect with 62 widely used applications and provide more than 110 specialized skills.\n\n🤯 The signal is clear:\nAI coding tools are evolving into broader workplace assistants that can support a wide range of professional tasks.\n\nThe rollout is currently available in preview for Business and Enterprise teams.\nSource: OpenAI",
+    "platform": "instagram",
+    "performance": "high",
+    "notes": "Instagram Darwin News. Mismo formato que LinkedIn. Datos numéricos concretos (5M usuarios, 20%, 3x).",
+    "word_count": 125
+  },
+  {
+    "text": "🚀💻 Chris Pavlovski says Rumble is preparing to compete directly with AI hyperscalers such as Amazon Web Services (AWS), Google Cloud, and Microsoft Azure.\n\n💡 The effort is tied to Rumble's planned acquisition of Northern Data, which would add thousands of NVIDIA GPUs and significant data center capacity to its infrastructure network.\n\n⚡ Reports suggest the deal could provide access to more than 22,000 NVIDIA H100 and H200 AI chips across multiple facilities.\n\n🤖 Pavlovski says the company wants to build AI infrastructure around privacy and freedom-first principles, positioning Rumble Cloud as a full-stack AI compute provider rather than just a video platform.\n\n🔥 The message is clear:\nThe AI race is no longer only about models and software.\nIncreasingly, success depends on access to GPUs, electricity, cooling systems, data centers, and cloud capacity.\n\n📷 Source: Chris Pavlovski / X",
+    "platform": "instagram",
+    "performance": "high",
+    "notes": "Darwin News Instagram. Cierra con 'The message is clear:' seguido de insight en 2-3 líneas cortas.",
+    "word_count": 128
+  },
+  {
+    "text": "💻🤖 Anthropic is training Claude Code in a different way.\nAccording to a report from Business Insider, the company is using feedback from around 1,000 software engineers to improve its coding assistant.\n\n💡 The work is reportedly being done through Snorkel AI's Marlin project, where specialists compare outputs from different models and evaluate which code is more:\n• correct\n• secure\n• reliable\n• maintainable\n\n⚡ The report says some contractors were paid $280 per task, with each task taking roughly an hour.\n\n🤯 The bigger signal is clear:\nAI training is becoming increasingly dependent on expert human knowledge and judgment.\n\nSource: Business Insider",
+    "platform": "instagram",
+    "performance": "high",
+    "notes": "Darwin News Instagram. Apertura con giro inesperado ('in a different way'). Datos específicos ($280/tarea).",
+    "word_count": 105
+  },
+  {
+    "text": "🏢 OpenAI lanza nuevas funciones empresariales que cambian las reglas del juego\n\n💡 La actualización incluye herramientas específicamente diseñadas para equipos corporativos, con controles de administración avanzados y mayor seguridad de datos.\n\n⚡ Nuevas capacidades incluyen gestión centralizada de usuarios\n⚡ API empresarial con límites de uso expandidos  \n⚡ Controles de privacidad que mantienen los datos internos\n⚡ Integración directa con herramientas como Slack y Microsoft Teams\n\nLas empresas en LATAM que ya implementaron IA conversacional reportan hasta 40% de reducción en tiempo de respuesta a clientes.\n\n🤯 Esto significa que implementar agentes conversacionales empresariales ya no requiere equipos técnicos masivos.\n\n¿Tu empresa está lista para automatizar las conversaciones que consumen más tiempo de tu equipo?\n\nEscribinos y te mostramos casos concretos de implementación en el mercado latinoamericano.\n\nFuente: OpenAI\n\n#IA #Automatización #Empresas",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Aprobado en app",
+    "word_count": 133
+  },
+  {
+    "text": "🚀 **OpenAI unveils new enterprise features for business transformation**\n\n💡 The latest updates focus on customization, security, and workflow integration — exactly what enterprise clients have been requesting.\n\n⚡ Custom GPTs can now access company databases directly\n⚡ Enterprise console includes usage analytics and cost controls\n⚡ API response times improved by 40% for business accounts\n⚡ New security layer meets SOC 2 and GDPR compliance standards\n\n🤯 This positions OpenAI as a serious enterprise platform, not just a consumer tool for LATAM businesses ready to scale operations.\n\nThe rollout is happening globally throughout Q1.\n\nWant to explore how conversational AI can transform your business processes?\n\nDrop us a DM — let's discuss your automation roadmap.\n\nSource: OpenAI",
+    "platform": "instagram",
+    "performance": "high",
+    "notes": "Aprobado en app",
+    "word_count": 118
+  },
+  {
+    "text": "🚀 **OpenAI lanza funciones empresariales que cambian las reglas del juego**\n\n💡 La compañía acaba de anunciar herramientas diseñadas específicamente para equipos corporativos, no solo desarrolladores individuales.\n\n⚡ Nuevas capacidades incluyen controles de administración centralizados\n⚡ Integración directa con sistemas empresariales existentes  \n⚡ Políticas de uso personalizables por departamento\n⚡ Analytics detallados de uso y ROI por equipo\n\n🤯 Esto significa que las empresas en LATAM ya no necesitan soluciones improvisadas para escalar IA en sus organizaciones.\n\nPor primera vez, OpenAI está pensando en cómo los equipos realmente trabajan:\ncon aprobaciones, presupuestos, compliance y métricas de negocio.\n\nPara empresas que venían probando IA de forma fragmentada, esto representa la oportunidad de implementar una estrategia unificada.\n\n¿Tu empresa ya está evaluando cómo integrar IA de manera estructurada?\n\nEscribinos para conversar sobre implementación empresarial.\n\nFuente: OpenAI",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Aprobado en app",
+    "word_count": 134
+  },
+  {
+    "text": "🏢 OpenAI just launched dedicated enterprise features that could change how companies deploy AI at scale\n\n💡 The key signal: they're moving beyond individual subscriptions to full organizational control and customization.\n\n⚡ New enterprise dashboard with centralized billing and user management\n⚡ Custom model fine-tuning for specific business processes\n⚡ Enhanced security controls and data governance tools\n⚡ Priority access during high-demand periods\n⚡ Advanced analytics on team AI usage patterns\n\nThe shift is clear: OpenAI is betting that the real money isn't in individual ChatGPT subscriptions.\nIt's in becoming the AI infrastructure backbone for entire organizations.\n\n🤯 For LATAM companies, this means AI deployment just became more feasible for teams of 50+ employees who need consistent, controlled access.\n\nBut here's what most companies miss:\nHaving enterprise AI tools is one thing.\nKnowing how to integrate them into actual business workflows is completely different.\n\nThat's where conversational AI agents make the difference.\nThey bridge the gap between having powerful AI capabilities and actually using them to transform customer interactions.\n\nWant to explore how enterprise AI could work for your team?\nSend us a message.\n\nSource: OpenAI",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Aprobado en app",
+    "word_count": 186
+  },
+  {
+    "text": "🏢 OpenAI lanzó nuevas funciones empresariales que van más allá de ChatGPT\n\n💡 La señal clave no son solo las nuevas herramientas, sino hacia dónde apunta OpenAI: quiere que las empresas construyan sus propios agentes conversacionales internos.\n\n⚡ API más robusta para integrar IA en sistemas existentes\n⚡ Controles de administración para equipos corporativos\n⚡ Modelos personalizables según datos de cada empresa\n⚡ Facturación empresarial con límites y transparencia de costos\n\n🤯 Para empresas en LATAM, esto significa que implementar IA conversacional ya no requiere equipos técnicos gigantes.\n\nLas compañías que antes necesitaban meses para probar un chatbot básico... ahora pueden tener agentes conversacionales funcionando en semanas.\n\n¿Ya evaluaste cómo la IA conversacional podría automatizar procesos en tu empresa?\n\nEscribinos y te mostramos casos concretos de implementación en LATAM.\n\nFuente: OpenAI",
+    "platform": "linkedin",
+    "performance": "high",
+    "notes": "Aprobado en app",
+    "word_count": 131
+  }
+]
